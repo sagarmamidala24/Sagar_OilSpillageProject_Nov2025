@@ -1,0 +1,22 @@
+============================================================
+OIL SPILL DETECTION REPORT
+============================================================
+Generated: 2025-12-03 21:03:54
+
+IMAGE INFORMATION:
+------------------------------------------------------------
+  Filename: drone_footage_oil_spill_original.mp4
+  Total Frames: 417
+  Size: 0.77 MB
+
+DETECTION STATISTICS:
+------------------------------------------------------------
+  Total Detections: 493
+  Average Confidence: 0.0000
+  Max Confidence: 0.0000
+  Min Confidence: 0.0000
+
+DETECTION DETAILS:
+------------------------------------------------------------
+  No detections found.
+============================================================
