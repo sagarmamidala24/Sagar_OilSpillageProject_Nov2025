@@ -262,8 +262,14 @@ oil_spill/
 #### CODE 24 – Topic Modeling (LDA using Gensim)
 - Creates dictionary + corpus, then trains an LDA model on text data.
 - Extracts hidden topics and displays top contributing words.
-## 📄 License
+### Output Images
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/sagarmamidala24/Sagar_OilSpillageProject_Nov2025/blob/main/oil%20spilt%20result/images_annotated/oil%20spill%20area.v2i.yolov12_1006_jpg.rf.30f9b433e6ce72177357c3be1ffa91bf_ann.jpg?raw=true" width="32%">
+  <img src="https://github.com/sagarmamidala24/Sagar_OilSpillageProject_Nov2025/blob/main/oil%20spilt%20result/images_annotated/oil%20spill%20area.v2i.yolov12_1007_jpg.rf.b7a7b40cf6121889a4fc4848669c4ca3_ann.jpg?raw=true" width="32%">
+  <img src="https://github.com/sagarmamidala24/Sagar_OilSpillageProject_Nov2025/blob/main/oil%20spilt%20result/masks/oil%20spill%20area.v2i.yolov12______thumb_fed_photo_jpg.rf.cee7658c0b82d45d6c2937d9cde0ffef_mask.png?raw=true" width="32%">
+</div>
 
+## 📄 License
 This project is provided as-is for demonstration and research purposes.
 
 ## 🙏 Acknowledgments
